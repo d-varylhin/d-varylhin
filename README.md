@@ -1,4 +1,4 @@
-## Hi there, I'm Danylo Varlyhin 👋
+## Hi there, I'm Danylo 👋
 
 I am a full-stack software engineer proficient in developing web/mobile applications and services in JavaScript and TypeScript. I'm eager to learning new things and expanding my knowlodge at any moment, so I'll be glad if you reach me out!
 
